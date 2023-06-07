@@ -1,6 +1,6 @@
 const metadata = {
   title: "Switch Workshop",
-  description: "Switch Workshop",
+  description: "For Component Workshop demo",
 };
 
 const RootLayout = ({ children }) => {
